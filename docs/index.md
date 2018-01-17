@@ -35,17 +35,15 @@ Applied Mathematics
 Evening Saturday January 27
 Grant Hall, Room 115
 
-![Grant Hall](../images/music.tif)
+![Grant Hall](../images/music.jpg)
 
 
 ### HAMR
-Sunday January 28
-9am to 3:30pm
-
 Hacking Audio and Music Research
-
+Sunday January 28
 DSI Space, 9th Floor SciLi
-![SciLi](../images/SciLi.tif)
+
+![SciLi](../images/SciLi.jpg)
 
 **Proposed Schedule**   
 8:00a – Breakfast / coffee / check-in   
