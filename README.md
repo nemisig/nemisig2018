@@ -1,2 +1,2 @@
-# nemisig2018
-Website for NEMISIG 2018
+NEMISIG 2018
+Brown + Spotify
