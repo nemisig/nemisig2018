@@ -17,7 +17,7 @@ Saturday, January 27
 Applied Mathematics 
 170 Hope Street
 
-![Applied Mathematics](./images/AppliedMath.jpg)
+![Applied Mathematics](/images/AppliedMath.jpg)
 
 **Proposed Schedule**   
 8:00a – Breakfast / coffee / check-in   
@@ -33,7 +33,7 @@ Applied Mathematics
 Evening Saturday January 27
 Grant Hall, Room 115
 
-![Grant Hall](./images/music.jpg)
+![Grant Hall](/images/music.jpg)
 
 
 ### HAMR
@@ -41,7 +41,7 @@ Hacking Audio and Music Research
 Sunday January 28
 DSI Space, 9th Floor SciLi
 
-![SciLi](./images/SciLi.jpg)
+![SciLi](/images/SciLi.jpg)
 
 **Proposed Schedule**   
 8:00a – Breakfast / coffee / check-in   
