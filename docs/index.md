@@ -6,13 +6,11 @@ Register [here](https://docs.google.com/forms/d/e/1FAIpQLSc2GN0gceDOH0MgUJEdeqX8
 
 
 ## Venue
-=====
 
-This year, it will be hosted in Providence, RI at Brown University, 27-28 January 2018, supported by the C.V Starr Foundation Lectureship fund with additional support from Spotify NYC. 
+This year, NEMISIG will be in Providence, RI at Brown University, 27-28 January 2018. It is co-hosted by Brown's [Data Science Initiative](https://www.brown.edu/initiatives/data-science/) and the [MEME Department] (https://www.brown.edu/academics/music/computer-music-multimedia-meme). NEMISIG is supported by the C.V Starr Foundation Lectureship fund with additional support from Spotify NYC. 
 
 
 ## Schedule
-========
 
 ### NEMISIG
 Saturday, January 27
