@@ -90,3 +90,6 @@ Most hotels are located in central Providence, down the hill and across the rive
 - **[Hampton Inn](http://hamptoninn3.hilton.com/en/hotels/rhode-island/hampton-inn-and-suites-providence-downtown-PVDWYHX/index.html):** $139
 
 [AirBnBs](https://www.airbnb.com/a/Providence--United-States) are also an option, with an average price around $98.
+
+### Student Travel Grants
+There are travel grants available for students. Please note on your registration form if you are interested in travel support. 
