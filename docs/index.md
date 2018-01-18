@@ -16,7 +16,7 @@ This year, NEMISIG will be in Providence, RI at Brown University, 27-28 January 
 ### NEMISIG
 Saturday, January 27
 Applied Mathematics
-170 Hope Street
+[170 Hope Street](https://goo.gl/maps/7MFwbeDHgVx)
 
 ![Applied Mathematics - image from Brown University Image Gallery](/images/AppliedMath.jpg)
 
@@ -29,11 +29,10 @@ Applied Mathematics
 5:00p – Unconference recap and closing remarks
 
 
-
 ### NEMIJAM
 Saturday January 27
-8:00p - ??
-Grant Hall, Room 115
+7:00p - 10:00p
+[Grant Hall, Room 115](https://goo.gl/maps/dhn2z5uMdLH2)
 
 ![Grant Hall - image from Brown University Image Gallery](/images/music.jpg)
 
@@ -43,7 +42,7 @@ Grant Hall, Room 115
 ### HAMR
 Hacking Audio and Music Research
 Sunday January 28
-DSI Space, 9th Floor SciLi
+[DSI Space, 9th Floor SciLi](https://goo.gl/maps/YVL1tjC3L462)
 
 ![SciLi - image from Brown University Image Gallery](/images/SciLi.jpg)
 
@@ -52,3 +51,42 @@ DSI Space, 9th Floor SciLi
 9:00a – Hacking begins
 12:00p – Lunch
 3:00p – Hacking ends, presentations and recap
+
+### Local Map
+
+The above buildings are marked on the map below.
+
+![Local Map of Brown](/images/brown_map.png)
+
+
+## Travel and Accommodations
+
+Known as the "Creative Capital", [Providence](http://www.goprovidence.com/) is a cozy mix of urban culture and small town charm, with renowned dining, a bustling arts scene, an expanding innovation and design district, and several universities.
+
+
+### Getting to Providence
+
+- **[Providence Station](https://www.amtrak.com/content/amtrak/en-us/stations/pvd.html):** Amtrak and the MBTA's commuter rail run into central Providence, just down the hill from the Rhode Island capitol building.
+
+- **[Kennedy Plaza](http://provparksconservancy.org/visit/):** For a cheaper alternative to trains, various bus lines into Downcity Providence.
+
+- **[T.F. Green Airport (PVD)](http://www.pvdairport.com/):** Located a short drive down I95 in Warwick, RI, the nearest airport to Providence is T.F. Green. Depending on your schedule, it's possible to take the MBTA commuter rail into Providence Station, or hail a cab for around $15.
+
+### Getting around Providence
+
+- **Lyft / Taxis:** Providence has a breadth of diverse neighborhoods packed into a small footprint. Cabs and ride-share services will get you where you need to go for $5-10.
+
+- **[RIPTA](https://www.ripta.com/):** Rhode Island's public transit network (RIPTA) is always an option if you want to get a little closer to the city. Single rides cost $2, day passes are $6.
+
+- **On foot!** Located on a river at the mouth of Naragansett Bay, Providence is a super walkable city. Take a stroll and see the sights.
+
+### Staying in Providence
+
+Most hotels are located in central Providence, down the hill and across the river from Brown University, 20min on foot // 10 min in a car. Price quotes are approximate, based on a quick Google search:
+
+- **[Hotel Providence](https://www.hotelprovidence.com/):** $116/night
+- **[Omni Hotel](https://www.omnihotels.com/hotels/providence):** $124/night
+- **[The Biltmore](https://www.providencebiltmore.com/):** $111/night
+- **[Hampton Inn](http://hamptoninn3.hilton.com/en/hotels/rhode-island/hampton-inn-and-suites-providence-downtown-PVDWYHX/index.html):** $139
+
+[AirBnBs](https://www.airbnb.com/a/Providence--United-States) are also an option, with an average price around $98.
