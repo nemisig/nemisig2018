@@ -31,10 +31,12 @@ Applied Mathematics
 
 ### NEMIJAM
 Saturday January 27
-7:00p - 10:00p
+7:30p - 10:00p
 [Grant Hall, Room 115](https://goo.gl/maps/dhn2z5uMdLH2)
 
 ![Grant Hall - image from Brown University Image Gallery](/images/music.jpg)
+
+There will be a piano provided, but please bring your instruments if possible.
 
 **Please note**: No food or drink will be allowed in the gallery, so please do enjoy your dinner before coming back to rock out.
 
