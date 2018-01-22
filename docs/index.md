@@ -31,10 +31,12 @@ Applied Mathematics
 
 ### NEMIJAM
 Saturday January 27
-7:00p - 10:00p
+7:30p - 10:00p
 [Grant Hall, Room 115](https://goo.gl/maps/dhn2z5uMdLH2)
 
 ![Grant Hall - image from Brown University Image Gallery](/images/music.jpg)
+
+There will be a piano provided, but please bring your instruments if possible.
 
 **Please note**: No food or drink will be allowed in the gallery, so please do enjoy your dinner before coming back to rock out.
 
@@ -90,3 +92,6 @@ Most hotels are located in central Providence, down the hill and across the rive
 - **[Hampton Inn](http://hamptoninn3.hilton.com/en/hotels/rhode-island/hampton-inn-and-suites-providence-downtown-PVDWYHX/index.html):** $139
 
 [AirBnBs](https://www.airbnb.com/a/Providence--United-States) are also an option, with an average price around $98.
+
+### Student Travel Grants
+There are travel grants available for students. Please note on your registration form if you are interested in travel support. 
