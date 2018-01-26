@@ -29,7 +29,7 @@ Saturday, January 27
  * Brian McFee -- New York University
  * Marko Stamenovic -- Bose
  * Michael Mandel -- Brooklyn College, CUNY
- * Melissa McGuirl -- Brown University
+ * Melissa McGuirl -- Brown University   
 11:00a – Mixer
 
 **Afternoon Schedule** in Applied Mathematics
@@ -37,10 +37,10 @@ Saturday, January 27
 
 ![Applied Mathematics - image from Brown University Image Gallery](/images/AppliedMath.jpg)
 
-12:00p – Lunch + posters (Kabob & Curry)
-3:00p – Coffee + Unconference planning
-3:30p – Three 30' unconference sessions
-5:00p – Unconference recap and closing remarks
+12:00p – Lunch + posters (Kabob & Curry)   
+3:00p – Coffee + Unconference planning   
+3:30p – Three 30' unconference sessions   
+5:00p – Unconference recap and closing remarks   
 
 
 ### NEMIJAM
