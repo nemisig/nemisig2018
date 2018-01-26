@@ -21,9 +21,10 @@ Saturday, January 27
 [Science Quad](https://goo.gl/maps/MpjBtpuMsht)
 
 ![MacMillan Hall - image from Brown University Image Gallery](/images/MacMillan.jpg)
+
 8:00a – Breakfast / coffee / check-in (PVD + Blue State Coffee)   
 9:00a – Welcome – Katie Kinnaird   
-9:15a – Overview lab talks
+9:15a – Overview lab talks   
  * Eric J. Humphrey -- Spotify NYC
  * Michael Casey -- Dartmouth College
  * Brian McFee -- New York University
