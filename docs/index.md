@@ -15,15 +15,29 @@ This year, NEMISIG will be in Providence, RI at Brown University, 27-28 January 
 
 ### NEMISIG
 Saturday, January 27
-Applied Mathematics
+
+
+**Morning Schedule** in MacMillan 115 
+[Science Quad](https://goo.gl/maps/MpjBtpuMsht)
+
+![MacMillan Hall - image from Brown University Image Gallery](/images/MacMillan.jpg)
+8:00a – Breakfast / coffee / check-in (PVD + Blue State Coffee)
+9:00a – Welcome – Katie Kinnaird
+9:15a – Overview lab talks
+ * Eric J. Humphrey -- Spotify NYC
+ * Michael Casey -- Dartmouth College
+ * Brian McFee -- New York University
+ * Marko Stamenovic -- Bose
+ * Michael Mandel -- Brooklyn College, CUNY
+ * Melissa McGuirl -- Brown University
+11:00a – Mixer
+
+**Afternoon Schedule** in Applied Mathematics
 [170 Hope Street](https://goo.gl/maps/7MFwbeDHgVx)
 
 ![Applied Mathematics - image from Brown University Image Gallery](/images/AppliedMath.jpg)
 
-**Proposed Schedule**
-8:00a – Breakfast / coffee / check-in
-9:00a – Welcome, overview lab talks
-12:00p – Lunch + posters
+12:00p – Lunch + posters (Kabob & Curry)
 3:00p – Coffee + Unconference planning
 3:30p – Three 30' unconference sessions
 5:00p – Unconference recap and closing remarks
